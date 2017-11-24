@@ -1,0 +1,16 @@
+PODS:
+  - SDLoader (0.1.0)
+
+DEPENDENCIES:
+  - SDLoader (from `../`)
+
+EXTERNAL SOURCES:
+  SDLoader:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SDLoader: fcbbf1b171b6f8f2aaa488c0105d3719822d5e20
+
+PODFILE CHECKSUM: 7039c18bb3ee36fd399bdf5381d43d9d2a461b73
+
+COCOAPODS: 1.2.1

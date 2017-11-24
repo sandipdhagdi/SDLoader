@@ -1,0 +1,6 @@
+framework module SDLoader {
+  umbrella header "SDLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SDLoader_Tests {
+  umbrella header "Pods-SDLoader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

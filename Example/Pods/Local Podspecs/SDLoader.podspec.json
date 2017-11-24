@@ -1,0 +1,22 @@
+{
+  "name": "SDLoader",
+  "version": "0.1.0",
+  "summary": "A short description of SDLoader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sandipdhagdi@gmail.com/SDLoader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sandipdhagdi@gmail.com": "sandipdhagdi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sandipdhagdi@gmail.com/SDLoader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDLoader/Classes/**/*"
+}
