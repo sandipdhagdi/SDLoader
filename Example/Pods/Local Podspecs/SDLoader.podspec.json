@@ -1,9 +1,9 @@
 {
   "name": "SDLoader",
   "version": "0.1.0",
-  "summary": "A short description of SDLoader.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/sandipdhagdi@gmail.com/SDLoader",
+  "summary": "Simple activity loader.",
+  "description": "Simple activity loader. fully customised",
+  "homepage": "https://github.com/sandipdhagdi/SDLoader",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "sandipdhagdi@gmail.com": "sandipdhagdi@gmail.com"
   },
   "source": {
-    "git": "https://github.com/sandipdhagdi@gmail.com/SDLoader.git",
+    "git": "https://github.com/sandipdhagdi/SDLoader.git",
     "tag": "0.1.0"
   },
+  "requires_arc": true,
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "SDLoader/Classes/**/*"
 }

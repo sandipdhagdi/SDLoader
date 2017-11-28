@@ -1,11 +1,7 @@
 use_frameworks!
-
 target 'SDLoader_Example' do
   pod 'SDLoader', :path => '../'
-
   target 'SDLoader_Tests' do
     inherit! :search_paths
-
-    
   end
 end
