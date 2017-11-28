@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/SDLoader.svg?style=flat)](http://cocoapods.org/pods/SDLoader)
 [![Platform](https://img.shields.io/cocoapods/p/SDLoader.svg?style=flat)](http://cocoapods.org/pods/SDLoader)
 
+
+
+
+![SDLoaders1](https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/s2.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +27,7 @@ pod 'SDLoader'
 
 ## Author
 
-sandipdhagdi@gmail.com, sandipdhagdi@gmail.com
+sandipdhagdi@gmail.com
 
 ## License
 
