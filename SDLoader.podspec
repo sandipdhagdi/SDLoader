@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'SDLoader'
-s.version          = '0.1.0'
+s.version          = '0.2.0'
 s.summary          = 'Simple activity loader.'
 s.description      = 'Simple activity loader. fully customised'
 s.homepage         = 'https://github.com/sandipdhagdi/SDLoader'
