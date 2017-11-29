@@ -82,6 +82,13 @@ pod 'SDLoader'
 [6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (github icon with padding)
 
 
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
 ### Shital
 sandipdhagdi@gmail.com
 
