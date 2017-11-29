@@ -56,7 +56,33 @@ pod 'SDLoader'
     public var animationType: AnimationType?
 
 ## Author
+### Sandip
 
+
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][1]
+[![alt text][3.1]][1]
+[![alt text][4.1]][1]
+[![alt text][5.1]][1]
+[![alt text][6.1]][1]
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (twitter icon with padding)
+[2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (facebook icon with padding)
+[3.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (google plus icon with padding)
+[4.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (tumblr icon with padding)
+[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (dribbble icon with padding)
+[6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (github icon with padding)
+
+
+### Shital
 sandipdhagdi@gmail.com
 
 ## License
