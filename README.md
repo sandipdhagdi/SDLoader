@@ -93,7 +93,7 @@ pod 'SDLoader'
 
 [7]: https://twitter.com/shitu_dabhole
 [8]: https://www.facebook.com/shital.dabhole
-[9]: https://github.com/sandipdhagdi
+[9]: https://github.com/Dnyanda
 [10]: https://plus.google.com/112111905667197997318
 [11]: https://in.linkedin.com/in/shital-shinde-6156b21b
 ## License
