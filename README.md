@@ -62,6 +62,7 @@ pod 'SDLoader'
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
+[![alt text][5.1]][5]
 <!--[![alt text][5.1]][5]-->
 <!--[![alt text][6.1]][6]-->
 
@@ -71,7 +72,7 @@ pod 'SDLoader'
 [![alt text][2.1]][8]
 [![alt text][3.1]][9]
 [![alt text][4.1]][10]
-<!--[![alt text][5.1]][11]-->
+[![alt text][5.1]][11]
 <!--[![alt text][6.1]][12]-->
 <!-- links to social media icons -->
 <!-- icons with padding -->
@@ -79,23 +80,22 @@ pod 'SDLoader'
 [2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/facebook.png (Facebook)
 [3.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/github.png (github)
 [4.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/google-plus.png (google-plus)
+[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/lin.png (google-plus)
+
 <!--[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/tumblr.png (tumblr)-->
 <!--[6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/dribbble.png (Dribbble)-->
 
-[1]: https://www.linkedin.com/in/sandip-dhagdi-33338b147
+[1]: https://twitter.com/sandipdhagdi
 [2]: https://www.facebook.com
 [3]: https://github.com/sandipdhagdi
 [4]: https://plus.google.com/108105914967802925796
-<!--[5]: https://www.linkedin.com/in/sandip-dhagdi-33338b147-->
-<!--[6]: https://www.facebook.com-->
+[5]: https://www.linkedin.com/in/sandip-dhagdi-33338b147
 
-[7]: https://www.linkedin.com/in/sandip-dhagdi-33338b147
-[8]: https://www.facebook.com
+[7]: https://twitter.com/shitu_dabhole
+[8]: https://www.facebook.com/shital.dabhole
 [9]: https://github.com/sandipdhagdi
-[10]: https://plus.google.com/108105914967802925796
-[11]: https://github.com/sandipdhagdi
-[12]: https://plus.google.com/108105914967802925796
-
+[10]: https://plus.google.com/112111905667197997318
+[11]: https://in.linkedin.com/in/shital-shinde-6156b21b
 ## License
 
 SDLoader is available under the MIT license. See the LICENSE file for more info.
