@@ -56,16 +56,14 @@ pod 'SDLoader'
     public var animationType: AnimationType?
 
 ## Author
-### Sandip
-[![alt text][1.1]][1]
+### Sandip [![alt text][1.1]][1]
 <!--[![alt text][2.1]][1]-->
 <!--[![alt text][3.1]][1]-->
 <!--[![alt text][4.1]][1]-->
 <!--[![alt text][5.1]][1]-->
 <!--[![alt text][6.1]][1]-->
 
-### Shital
-[![alt text][1.1]][2]
+### Shital  [![alt text][1.1]][2]
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
