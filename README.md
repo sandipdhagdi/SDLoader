@@ -70,16 +70,17 @@ pod 'SDLoader'
 
 <!-- icons with padding -->
 
-[1.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (Send me your valuable feedback)
-<!--[2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (facebook icon with padding)-->
+
+[1.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/facebook.png (Facebook)
+<!--[2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (Send me your valuable feedback)-->
 <!--[3.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (google plus icon with padding)-->
 <!--[4.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (tumblr icon with padding)-->
 <!--[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (dribbble icon with padding)-->
 <!--[6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (github icon with padding)-->
 
 
-[1]: sandipdhagdi@gmail.com
-[2]: dabhole.s@gmail.com
+[1]: https://www.facebook.com/sandipdhagdi
+[2]: https://www.facebook.com
 
 <!--[2]: http://www.facebook.com/sednaoui-->
 <!--[3]: https://plus.google.com/+CarlSednaoui-->
