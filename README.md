@@ -59,31 +59,42 @@ pod 'SDLoader'
 #### Sandip
 
 [![alt text][1.1]][1]
-<!--[![alt text][2.1]][1]-->
-<!--[![alt text][3.1]][1]-->
-<!--[![alt text][4.1]][1]-->
-<!--[![alt text][5.1]][1]-->
-<!--[![alt text][6.1]][1]-->
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+<!--[![alt text][5.1]][5]-->
+<!--[![alt text][6.1]][6]-->
 
 #### Shital
 
-[![alt text][1.1]][2]
+[![alt text][1.1]][7]
+[![alt text][2.1]][8]
+[![alt text][3.1]][9]
+[![alt text][4.1]][10]
+<!--[![alt text][5.1]][11]-->
+<!--[![alt text][6.1]][12]-->
 <!-- links to social media icons -->
 <!-- icons with padding -->
-[1.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/facebook.png (Facebook)
-<!--[2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (Send me your valuable feedback)-->
-<!--[3.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (google plus icon with padding)-->
-<!--[4.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (tumblr icon with padding)-->
-<!--[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (dribbble icon with padding)-->
-<!--[6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/email.png (github icon with padding)-->
-[1]: https://www.facebook.com/sandipdhagdi
-[2]: https://www.facebook.com
-<!--[2]: http://www.facebook.com/sednaoui-->
-<!--[3]: https://plus.google.com/+CarlSednaoui-->
-<!--[4]: http://carlsed.tumblr.com-->
-<!--[5]: http://dribbble.com/carlsednaoui-->
-<!--[6]: http://www.github.com/carlsednaoui-->
+[1.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/twitter.png (twitter)
+[2.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/facebook.png (Facebook)
+[3.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/github.png (github)
+[4.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/google-plus.png (google-plus)
+<!--[5.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/tumblr.png (tumblr)-->
+<!--[6.1]: https://github.com/sandipdhagdi/SDLoader/blob/master/SampleVideos/dribbble.png (Dribbble)-->
 
+[1]: https://www.linkedin.com/in/sandip-dhagdi-33338b147
+[2]: https://www.facebook.com
+[3]: https://github.com/sandipdhagdi
+[4]: https://plus.google.com/108105914967802925796
+<!--[5]: https://www.linkedin.com/in/sandip-dhagdi-33338b147-->
+<!--[6]: https://www.facebook.com-->
+
+[7]: https://www.linkedin.com/in/sandip-dhagdi-33338b147
+[8]: https://www.facebook.com
+[9]: https://github.com/sandipdhagdi
+[10]: https://plus.google.com/108105914967802925796
+[11]: https://github.com/sandipdhagdi
+[12]: https://plus.google.com/108105914967802925796
 
 ## License
 
